@@ -1,0 +1,42 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+    
+
+}
+.non{
+text-decoration: none;
+
+
+
+}
+.link{
+    text-decoration: none;
+    position: relative; right: 150px;
+}
+.x{
+    width: 250px;
+height: 25px;
+}
+.flex4{
+
+    border-radius:  30px; 
+    width: 250px; ;
+    height:40px ;
+    background-color:red;
+    color: aliceblue;
+    border-radius: 30px;
+    border:none ;
+} 
+
+
+
+
+
+
+
+
+

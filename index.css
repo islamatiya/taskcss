@@ -1,0 +1,31 @@
+.contaner{
+
+display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pic{
+width: 220px;
+height: 220px;
+
+
+
+}
+.para1{
+border-radius:  30px; 
+width: 220px; ;
+height:30px ;
+background-color: blue;
+color: aliceblue;
+border:none ;
+
+
+}
+
+.para2{
+    border-radius:  30px; 
+    width: 220px; ;
+    height:30px ;
+    background-color:red;
+    color: aliceblue;
+    border:none ;}

@@ -1,0 +1,29 @@
+.box{
+display: flex;
+flex-direction: column;
+align-items: center;
+    
+}
+.box4{
+
+    border-radius:  30px; 
+    width: 250px; ;
+    height:40px ;
+    background-color:blue;
+    color: aliceblue;
+    border:none ;}
+
+
+.non{
+        text-decoration: none;}
+
+ .x{
+position: relative;left:5px ;
+width: 250px;
+height: 25px;}
+.link{
+    text-decoration: none;
+    position: relative; right: 150px;
+}
+
+
